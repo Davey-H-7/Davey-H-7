@@ -1,9 +1,8 @@
 Welcome to Dave's GitHub! 👋 
-I am currently a student of CodeClan (now facilitated by CodeBase due to liquidation reasons) studying their 16 week Professional Software Development course.
+Having previously studied and worked as an Electrical Engineer, this year I made the decision to switch fields into Software and took the leap into CodeClan's 16 week Professional Software Development course.
 
-So far on the course I have created projects with technologies such as Python with Flask frameworks, HTML, CSS and databases using MongoDB and PostgreSQL but the highlight has been
-working with JavaScript and creating frontends using React, particularly on my group BlackJack project.
+During the course the highlight for me was working with JavaScript and React but I also created projects using Python and Java with technologies such as Flask, Springs, MongoDB, PostgreSQL,  HTML & CSS.
 
-Currently I am beginning to learn Java with a focus on SOLID principles and using IntelliJ for the first time.
+Now I have graduated (congratulations to me) and am focusing on improving the projects I have already begun and creating new ones to further develop my skills.
 
 
