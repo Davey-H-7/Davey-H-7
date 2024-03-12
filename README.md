@@ -1,8 +1,8 @@
 Welcome to Dave's GitHub! 👋 
-Having previously studied and worked as an Electrical Engineer, this year I made the decision to switch fields into Software and took the leap into CodeClan's 16 week Professional Software Development course.
+Having previously studied and worked as an Electrical Engineer, last year I made the decision to seek new challenges and learning opportunities in Software Engineering. My first big step on that journey was taking the leap into CodeClan's 16 week Professional Software Development bootcamp, a course which involved intensive full days of study as well as daily solo, pair and group work assignments both in person and remotely throughout.
 
-During the course the highlight for me was working with JavaScript and React but I also created projects using Python and Java with technologies such as Flask, Springs, MongoDB, PostgreSQL,  HTML & CSS.
+Studying with CodeClan was definitely challenging but the process has provided me with skills and knowledge that I'm sure will be invaluable going forward as well as proving that I am capable of putting them into practice. The highlight of the course for me was working on JavaScript with React, planning and engineering complex logic for projects like the Blackjack game and musical Synthesizer you can find in the repositories below.
 
-Now I have graduated (congratulations to me) and am focusing on improving the projects I have already begun and creating new ones to further develop my skills.
+Currently I am looking to continue developing by entering an entry level role as a software engineer or developer, but in the mean time am continuing to hone my abilities in Javascript and Java while also building new ones using technology like TypeScript, Angular and AWS.
 
 
